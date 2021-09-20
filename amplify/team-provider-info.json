@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-simplebbs-dev-210414-authRole",
+      "UnauthRoleArn": "arn:aws:iam::933345684592:role/amplify-simplebbs-dev-210414-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::933345684592:role/amplify-simplebbs-dev-210414-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-simplebbs-dev-210414-deployment",
+      "UnauthRoleName": "amplify-simplebbs-dev-210414-unauthRole",
+      "StackName": "amplify-simplebbs-dev-210414",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:933345684592:stack/amplify-simplebbs-dev-210414/e23bae80-1a0a-11ec-8bda-0ec0ff3ddc99",
+      "AmplifyAppId": "d297o28ewxsrbc"
+    }
+  }
+}
